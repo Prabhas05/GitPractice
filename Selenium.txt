@@ -1,0 +1,8 @@
+At first the code needs to be saved on the IDE . then on git i have to change the directory by cd 
+then on same directory i have to check the status by adding git status command , if the repo is blank it will show not a git repository .
+the i ahve to initialize the branch by adding git init command .
+( jadi mu kichi chnages karichi au git status re dekhibi then on local ru sttaing ku jibaku commint dekheiba sethipain add mommad re add file karibaku haba)
+add re add < file name> dei add kari sarila re . puni stage ru loacl repos then commit with -m " message ".
+then after addig omn local repo we have to push the code to remote repo . for than we have to create one repo & to connect woth th repo we have to add
+here i ahve to add one more command git remote add origin <//htpp:particular link which generated>
+the after adding it we have to add the command as git push $ git push -u origin main 
